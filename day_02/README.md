@@ -7,7 +7,7 @@
 - Type Conversions
 - F-Strings
 
-## Project - Tip Calculator
+## Project: Tip Calculator
 
 ### Description
 
