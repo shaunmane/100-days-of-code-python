@@ -15,5 +15,4 @@ The goal is to build a "Choose your own adventure game". Using what you have lea
 
 ### Project Demo
 
-![demo](day_03/demo.gif)
-
+![demo](https://github.com/shaunmane/100-days-of-code-python/blob/main/day_03/demo.gif)
