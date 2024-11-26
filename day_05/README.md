@@ -8,7 +8,7 @@
 
 ### Description
 
-The goal is to build a "Random password generator". Using what you have learnt in the lessons today you will be building a very simple version of this type of text game.
+The objective is to take the inputs from the user to these questions and then generate a random password. Using knowledge about Python lists and loops to complete the challenge.
 
 ### Project Demo
 
