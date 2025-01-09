@@ -66,4 +66,4 @@ If they type 'yes' then ask them for direction/text/shift again and call the `ca
 
 ### 4. Demo
 
-![demo](https://appbrewery.github.io/python-day8-demo/)
+[demo](https://appbrewery.github.io/python-day8-demo/)
